@@ -1,5 +1,5 @@
 <x-layout>
     <h1>
-        Hello to users index action inside UsersController
+        Hello to users index acxtion inside UsersController
     </h1>
 </x-layout>
